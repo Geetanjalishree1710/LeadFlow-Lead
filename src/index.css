@@ -1,0 +1,10 @@
+html {
+    background: #fbfbfa
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+    font-family: 'DM Sans', sans-serif;
+    -webkit-font-smoothing: antialiased
+}
